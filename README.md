@@ -1,5 +1,5 @@
 # AI-Stock-Model
-# AISchool-Stock-AI
+
 
 This repository contains a Python-based application for predicting stock market signals and training AI models using historical stock data. It utilizes machine learning techniques to provide trading signals such as Buy, Sell, and Hold, based on technical indicators. You can utilize the pre-trained model "trained_model.pkl" or train your own model using "stock_trainer.py". Our pre-trained model has been trained using AMZN, META, MSFT, TSLA, NVDA, TSM, AMD, and BABA. 
 
